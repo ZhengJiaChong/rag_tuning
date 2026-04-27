@@ -1203,6 +1203,5 @@ def encode_long_text(model, text, max_length=512):
 
 ---
 
-**文档版本**: v1.0  
-**最后更新**: 2024年  
+**文档版本**: v1.0   
 **相关文档**: [RAG系统优化总览.md](./RAG系统优化总览.md)
